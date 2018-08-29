@@ -1,0 +1,32 @@
+C:\Users\ava_s\source\repos\VendingMachineProject\VendingMachineProject\bin\Debug\VendingMachineProject.exe.config
+C:\Users\ava_s\source\repos\VendingMachineProject\VendingMachineProject\bin\Debug\VendingMachineProject.exe
+C:\Users\ava_s\source\repos\VendingMachineProject\VendingMachineProject\bin\Debug\VendingMachineProject.pdb
+C:\Users\ava_s\source\repos\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject.csprojResolveAssemblyReference.cache
+C:\Users\ava_s\source\repos\VendingMachineProject\VendingMachineProject\obj\Debug\MainWindow.g.cs
+C:\Users\ava_s\source\repos\VendingMachineProject\VendingMachineProject\obj\Debug\App.g.cs
+C:\Users\ava_s\source\repos\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject_MarkupCompile.cache
+C:\Users\ava_s\source\repos\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject_MarkupCompile.lref
+C:\Users\ava_s\source\repos\VendingMachineProject\VendingMachineProject\obj\Debug\MainWindow.baml
+C:\Users\ava_s\source\repos\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject.g.resources
+C:\Users\ava_s\source\repos\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject.Properties.Resources.resources
+C:\Users\ava_s\source\repos\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject.csproj.GenerateResource.Cache
+C:\Users\ava_s\source\repos\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject.exe
+C:\Users\ava_s\source\repos\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject.pdb
+C:\Users\ava_s\source\repos\VendingMachineProject\VendingMachineProject\obj\Debug\Maintenance.g.cs
+C:\Users\ava_s\source\repos\VendingMachineProject\VendingMachineProject\obj\Debug\Maintenance.baml
+C:\Users\ava_s\source\repos\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject.csproj.CoreCompileInputs.cache
+C:\Users\ava_s\source\repos\C# Projects\VendingMachineProject\VendingMachineProject\bin\Debug\VendingMachineProject.exe.config
+C:\Users\ava_s\source\repos\C# Projects\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject.exe
+C:\Users\ava_s\source\repos\C# Projects\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject.pdb
+C:\Users\ava_s\source\repos\C# Projects\VendingMachineProject\VendingMachineProject\bin\Debug\VendingMachineProject.exe
+C:\Users\ava_s\source\repos\C# Projects\VendingMachineProject\VendingMachineProject\bin\Debug\VendingMachineProject.pdb
+C:\Users\ava_s\source\repos\C# Projects\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject.csprojResolveAssemblyReference.cache
+C:\Users\ava_s\source\repos\C# Projects\VendingMachineProject\VendingMachineProject\obj\Debug\MainWindow.g.cs
+C:\Users\ava_s\source\repos\C# Projects\VendingMachineProject\VendingMachineProject\obj\Debug\App.g.cs
+C:\Users\ava_s\source\repos\C# Projects\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject_MarkupCompile.cache
+C:\Users\ava_s\source\repos\C# Projects\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject_MarkupCompile.lref
+C:\Users\ava_s\source\repos\C# Projects\VendingMachineProject\VendingMachineProject\obj\Debug\MainWindow.baml
+C:\Users\ava_s\source\repos\C# Projects\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject.g.resources
+C:\Users\ava_s\source\repos\C# Projects\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject.Properties.Resources.resources
+C:\Users\ava_s\source\repos\C# Projects\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject.csproj.GenerateResource.Cache
+C:\Users\ava_s\source\repos\C# Projects\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject.csproj.CoreCompileInputs.cache
